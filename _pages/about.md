@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "guilherme brandão"
+title: "Guilherme Brandão"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

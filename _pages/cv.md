@@ -11,16 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* T.C. in Computer Technician, Federal University of Technology - Paraná (UTFPR), 2013 
+* B.S. in Electrical Engineering, State University of Londrina (UEL), 2018
+* M.S. in Electronical Engineering, State University of Londrina (UEL), Currently
+
+Courses
+======
+* Linux Embedded Systems, State University of Londrina (UEL), 2018
+* Simulation and Control of Drones, Tecnico Lisboa (IST), 2018
+* Building a Search Engine, Udacity, 2012
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2015: Research Assistant
+  * State University of Londrina (UEL)
+  * Duties included: Attitude Estimation and Kalman Filter
+  * Supervisor: Prof. Francisco Granziera
 
 * Fall 2015: Research Assistant
   * Github University
@@ -29,12 +36,9 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C, C++, Python, ARM
+* Matlab, Tensorflow, OpenCV
+* TDD, VHDL, PCB Desing
 
 Publications
 ======
