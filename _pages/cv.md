@@ -69,4 +69,4 @@ Publications
   
 Service and leadership
 ======
-* 2015 - 2017 Voluteer Member IEEE Brench - UEL
+* 2015 - 2017 Volunteer Member IEEE Brench - UEL
