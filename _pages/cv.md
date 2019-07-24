@@ -24,16 +24,36 @@ Courses
 
 Work experience
 ======
-* 2015: Research Assistant
+* 2019-Current: Research Assistant
   * State University of Londrina (UEL)
-  * Duties included: Attitude Estimation and Kalman Filter
-  * Supervisor: Prof. Francisco Granziera
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Duties included: Machine Learning and Computer Vision for Self-driving Cars
+  * Supervisor: Prof. Dr. Leonimer Melo
   
+* 2016-2018: Undergraduate Research
+  * State University of Londrina (UEL)
+  * Duties included: Embedded Systems and Attitude Estimation
+  * Supervisor: Prof. Dr. Francisco Granziera Jr.
+
+* 2015-2016: Undergraduate Research
+  * State University of Londrina (UEL)
+  * Duties included: Robotics and Embedded Systems
+  * Supervisor: Prof. Dr. Francisco Granziera Jr.
+
+* 2012: Software Developer
+  * Aliena Web Inf.
+  * Duties included: Web Systems and Ecommerce Softwares
+
+* 2013-2014: Undergraduate Research
+  * Federal University of Technology - Paraná (UTFPR)
+  * Duties included: Early Security Incident Detection
+  * Supervisor: Prof. Dr. Rodrigo Campiolo
+
+* 2011-2012: Undergraduate Research
+  * Federal University of Technology - Paraná (UTFPR)
+  * Duties included: WiFi Security and Wardriving Analysis
+  * Supervisor: Prof. Dr. Rodrigo Campiolo
+
+
 Skills
 ======
 * C, C++, Python, ARM
