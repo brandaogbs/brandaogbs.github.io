@@ -14,6 +14,12 @@ redirect_from:
  
   > Moro em Londrina, no sul do Brasil, sou apaixonado por aprender novas tecnologias, um amante da vida simples e da cultura *maker*. Além disso, adoro [músicas](https://open.spotify.com/user/brandaogbs?si=YgXA46t-R36nsn60217roQ) e não recuso um `cafézinho` e uma [boa conversa](https://www.instagram.com/brandaogbs1/).
 
-<!-- Hello, my name is Guilherme, i formed Computer Technician ar Federal University of Technology - Parana (2013),    -->
+<!-- 
+  > Hello, my name is Guilherme, i'm formed Computer Technician at [UTFPR (2013)](http://portal.utfpr.edu.br/), *B.S. Electrical Enginner* at [UEL (2018)](http://portal.uel.br/home/) and now i'm getting the *M.S. Electronic Enginner* at UEL (2020). 
 
-<!-- > Currently  -->
+  > Nowdays i'm working with  embedded systems and software developing with special interesting on topics of machine learning and computer vision for self-driving cars. Also i was trying solve problems at IO where i develop some solutions for embedded applications and eletronic instrumentation for real world.
+
+  >  I'm living in Londrina - Brazil and i in love with learning new technologies, i'm good lover of the simple life style and the maker culture. Also, i love a lot of song and i could not refuse a coffee and a good conversation.
+
+-->
+
