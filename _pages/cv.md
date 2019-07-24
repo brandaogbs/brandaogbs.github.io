@@ -13,7 +13,7 @@ Education
 ======
 * T.S. in Computer Technician, Federal University of Technology - Paraná (UTFPR), 2013 
 * B.S. in Electrical Engineering, State University of Londrina (UEL), 2018
-* M.S. in Electronical Engineering, State University of Londrina (UEL), 2021 (expected)
+* M.S. in Electronical Engineering, State University of Londrina (UEL), 2020 (expected)
 
 Courses
 ======
