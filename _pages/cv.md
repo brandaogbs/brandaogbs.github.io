@@ -36,8 +36,8 @@ Work experience
 
 * 2015-2016: Undergraduate Research
   * State University of Londrina (UEL)
-  * Duties included: Robotics and Embedded Systems
-  * Supervisor: Prof. Dr. Francisco Granziera Jr.
+  * Duties included: Robotics, Embedded Systems and Education
+  * Supervisor: Prof. Dr. Ernesto Ferreyra
 
 * 2012: Software Developer
   * Aliena Web Inf.
@@ -69,4 +69,4 @@ Publications
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2015 - 2017 Voluteer Member IEEE Brench - UEL
