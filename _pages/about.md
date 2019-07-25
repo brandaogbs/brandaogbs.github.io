@@ -14,6 +14,7 @@ No momento meus principais interesses são em `sistemas embarcados` e `desenvolv
  
 Moro em Londrina, no sul do Brasil, sou apaixonado por aprender novas tecnologias, um amante da vida simples e da cultura *maker*. Além disso, adoro [músicas](https://open.spotify.com/user/brandaogbs?si=YgXA46t-R36nsn60217roQ) e não recuso um `cafézinho` e uma [boa conversa](https://www.instagram.com/brandaogbs1/).
 </center>
+
 <!-- 
   > Hello, my name is Guilherme, i'm Computer Technician from [UTFPR (2013)](http://portal.utfpr.edu.br/), *B.S. Electrical Enginner* at [UEL (2018)](http://portal.uel.br/home/) and now i'm getting the *M.S. Electronic Enginner* at UEL (2020). 
 
