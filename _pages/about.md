@@ -20,7 +20,7 @@ redirect_from:
 ---
 
   > Hello,  
-  my name is Guilherme, I'm graduated on *Computer Technician* at [UTFPR](http://portal.utfpr.edu.br/) (2013) and *Electrical Engineer* at [UEL](http://portal.uel.br/home/) (2018). Now I'm getting the *Master degree on Electronic Engineer* at UEL (2020). 
+  my name is Guilherme, I'm graduated on *Computer Technician* at [UTFPR](http://portal.utfpr.edu.br/) (2013) and *Electrical Engineer* at [UEL](http://portal.uel.br/home/) (2018). Now I'm getting the *Master degree on Electronic Engineering* at UEL (2020). 
 
   > Currently I'm working with `embedded systems` and `software developing` with special interesting on topics of `machine learning` and `computer vision` for `self-driving cars`. Besides that I'm trying to `solve problems` at IO where I develop some solutions for `embedded applications` and `eletronic instrumentation` for real world.
 
