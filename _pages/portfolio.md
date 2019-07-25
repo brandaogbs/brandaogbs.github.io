@@ -11,7 +11,7 @@ A modern and interactive parking machine.
 <center><br/><img src='/images/500x300.png'></center>
 
 ## FarmIO
-An friendly embedded system for instrumentation and control of silos purge.  
+A friendly embedded system for instrumentation and control of silos purge.  
 `ARM`, `RTOS`, `Electronic Instrumentation`, `H-M Interface`, `Embedded Linux`.
 <center><br/><img src='/images/500x300.png'></center>
 
