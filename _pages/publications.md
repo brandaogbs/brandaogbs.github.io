@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+---
+
 
 ## Conference Papers
 
@@ -15,6 +17,9 @@ author_profile: true
 ### Aplicação de um sistema embarcado e filtragem de Kalman para estimação de volume e fluxo de reservatório hídrico
 
 * Recommended citation: *FUJITA, R. ; Rodrigues, V. C. ; SILVA, G. B. ; Batista, D. S. ; Granziera Jr., F. . Apllicação de um sistema embarcado e filtragem de Kalman para estimação de volume e fluxo de reservatório hídrico. In: Conferência Brasileira de Dinâmica, Controle e Aplicações, 2017, São José do Rio Preto. Proceeding Series of the Brazilian Society of Computational and Applied Mathematics.*
+
+---
+
 
 ## Conference Abstracts
 

@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+
+---
+
+
 Education
 ======
 * T.S. in Computer Technician, Federal University of Technology - Paraná (UTFPR), 2013 
