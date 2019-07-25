@@ -24,4 +24,4 @@ redirect_from:
 
   > Currently I'm working with `embedded systems` and `software developing` with special interesting on topics of `machine learning` and `computer vision` for `self-driving cars`. Besides that I'm trying to `solve problems` at IO where I develop some solutions for `embedded applications` and `eletronic instrumentation` for real world.
 
-  > I'm living in Londrina - Brazil and I love learning new technologies, I'm a lover of minimalism and the maker life style. Also, I enjoy to create a lot of [playlists](https://open.spotify.com/user/brandaogbs?si=YgXA46t-R36nsn60217roQ) and I never refuse a cup of *coffee* and a [good conversation](https://www.instagram.com/brandaogbs1/).
+  > I'm living in Londrina - Brazil and I love to learn new technologies, I'm a lover of minimalism and the maker life style. Also, I enjoy to create a lot of [playlists](https://open.spotify.com/user/brandaogbs?si=YgXA46t-R36nsn60217roQ) and I never refuse a cup of *coffee* and a [good conversation](https://www.instagram.com/brandaogbs1/).
