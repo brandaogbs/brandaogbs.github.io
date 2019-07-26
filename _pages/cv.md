@@ -61,7 +61,7 @@ Work experience
 Skills
 ======
 * C, C++, Python, ARM
-* Matlab, Tensorflow, OpenCV
+* Matlab, Tensorflow, OpenCV, Linux
 * TDD, VHDL, PCB Desing
 
 Publications
