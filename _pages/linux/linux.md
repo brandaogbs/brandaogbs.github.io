@@ -12,7 +12,11 @@ author_profile: true
 ---
 
 
-O Curso
+Sistemas Operacionais Embarcados
 ======
 * Introdução
+* Motivações
+* O Curso
 
+Introdução
+======
