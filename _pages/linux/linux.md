@@ -1,8 +1,8 @@
 ---
-layout: archive
+layout: single
 title: "Curso Linux"
 permalink: /linux/
-author_profile: true
+# author_profile: true
   
 ---
 
