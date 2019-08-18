@@ -61,7 +61,7 @@ O Transistor BJT NPN como chave
 
 Outro problema muito comum em eletrônica é que mesmo que a carga e o comando possuam níveis de tensão similares (como,por exemplo, a saída do Arduino para acionar a bobina do Rele explicado anteriormenteonde ambos são 5 V), o dispositivo que deve enviar o sinal para acionar o outro não consegue fornecer corrente suficiente para tal.
 
-No caso do Arduino (ou um microcontrolador qualquer), uma porta digital não possui capacidade de fornecer corrente suficiente para acionar a bobina do Rele e consequentemente o mesmo funcionar corretamente. Portanto, NÃOpodemos realizar a ligação abaixo:
+No caso do Arduino (ou um microcontrolador qualquer), uma porta digital não possui capacidade de fornecer corrente suficiente para acionar a bobina do Rele e consequentemente o mesmo funcionar corretamente. Portanto, **NÃO** podemos realizar a ligação abaixo:
 
 <center>
 <br/>
