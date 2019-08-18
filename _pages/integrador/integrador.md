@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Projeto Integrado 1B -- Lab1"
-permalink: /integrador/lab1
+permalink: /integrador
 author_profile: false
   
 ---
