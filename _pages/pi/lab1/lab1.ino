@@ -1,8 +1,8 @@
 /**
   ******************************************************************************
   * @file    lab1.ino
-  * @brief   Experimento de acionamento de display 7seg,
-  *          transistors como chave e acionamento de rele.
+  * @brief   Experimento de acionamento de rele, transistor como
+  *          chave e display 7 segmentos.
   * @authors 
   ******************************************************************************
   */
@@ -16,6 +16,7 @@
 #define DELAY_MS 1
 
 #define PIN_BUTTON  3
+
 // #1.  TODO: Defina a constante do pino do LED13
 
 #define PIN_A 5
@@ -29,7 +30,13 @@
 /* Private variables ---------------------------------------------------------*/
 
 /* Private function prototypes -----------------------------------------------*/
+// Debug
 void debugLD();
+
+// Botao
+int isButtonPressed();
+
+// Display
 void setDisplayOn();
 void setDisplayOff();
 void setDisplayDigit(int digit);
@@ -63,23 +70,36 @@ void setup()
   */
 void loop() 
 {
-    // #5. TODO: Inserir a funcao que pisca o LD13
-    setDisplayCountdown();
+    debugLD(DELAY_MS);
+    setDisplayCount();
 }
 
 
-// #4. TODO: Fazer cabecalho da funcao que pisca o LD13
+// #3. TODO: Fazer cabecalho da funcao que pisca o LD13
 /**
-  * @brief 
-  * @param  
-  * @retval 
+  * @brief  O que essa função faz?
+  * @param  Quais os parametros de entrada?
+  * @retval Qual o retorno?
   */
-void debugLD(int tempo_ms)
+void debugLD(int delay_ms)
 {
-    
-    // 3#. TODO: Implementar uma funcao que pisque o LD13
+    // 4#. TODO: Implementar uma funcao que pisque o LD13
     //      conforme o tempo_ms.
     //      Utilize a funcao 'delay()'
+}
+
+
+/**
+  * @brief  Verifica se o botao esta 
+  *         pressionado
+  * @param  None
+  * @retval int: estado do botao 
+  *              1- pressionado 
+  *              0- caso contrario
+  */
+int isButtonPressed()
+{
+    return 0;
 }
 
 
@@ -90,7 +110,26 @@ void debugLD(int tempo_ms)
   */
 void setDisplayDigit(int digit)
 {
-    // 7#. TODO: Implemente a função setDisplayDigit
+    if(digit!=1 && digit != 4)
+    digitalWrite(PIN_A,HIGH);
+
+    if(digit != 5 && digit != 6)
+    digitalWrite(PIN_B,HIGH);
+
+    if(digit !=2)
+    digitalWrite(PIN_C,HIGH);
+
+    if(digit != 1 && digit !=4 && digit !=7)
+    digitalWrite(PIN_D,HIGH);
+
+    if(digit == 2 || digit ==6 || digit == 8 || digit==0)
+    digitalWrite(PIN_E,HIGH);
+
+    if(digit != 1 && digit !=2 && digit!=3 && digit !=7)
+    digitalWrite(PIN_F,HIGH);
+
+    if (digit!=0 && digit!=1 && digit !=7)
+    digitalWrite(PIN_G,HIGH);
 }
 
 /**
@@ -101,7 +140,6 @@ void setDisplayDigit(int digit)
   */
 void setDisplayOff()
 {
-    // 8#. TODO: Implemente a cao setDisplayOff()
 }
 
 /**
