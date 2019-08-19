@@ -121,6 +121,7 @@ Utilizando um display 7-segmentos Catodo comum, podemos ligar ao cada um de seus
 
 Montagem Experimental
 =====
+* [**Introdução**](/pi/lab1)
 * [Warm Up](/pi/lab1/00)
 * [Projeto 1](/pi/lab1/01)
 * [Projeto 2](/pi/lab1/02)
