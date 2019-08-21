@@ -16,7 +16,6 @@
 #define DELAY_MS 1
 
 #define PIN_BUTTON  3
-
 // #1.  TODO: Defina a constante do pino do LED13
 
 #define PIN_A 5
