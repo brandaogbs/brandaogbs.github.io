@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Projeto Integrador 1B -- Lab1"
-permalink: /2ele031/lab1
+permalink: /2ele031/lab1_velho
 author_profile: false
   
 ---
@@ -50,7 +50,7 @@ Reles podem ser vistos como chaves elétricas que utilizam o princípio eletroma
 
 <center>
 <br/>
-<img src='/images/2ele031/lab1/rele.png'>
+<img src='/images/2ele031/lab1_velho/rele.png'>
 <p>Figura 1-Rele no Estado em Repouso (esquerda) e Estado Ativo do Rele com corrente elétrica sobre a bobina (direita)</p>
 </center>
 
@@ -68,7 +68,7 @@ No caso do Arduino (ou um microcontrolador qualquer), uma porta digital não pos
 
 <center>
 <br/>
-<img src='/images/2ele031/lab1/ligacao_errada.png'>
+<img src='/images/2ele031/lab1_velho/ligacao_errada.png'>
 </center>
 
 Efetuar a ligação como na figura anterior pode causar danos aos dispositivos. Desta forma, precisamos adicionar no sistema um semicondutor capaz de fornecer acorrente para a bobina do Rele. A forma mais simples de realizar esta tarefa é a partir de um Transistor BJT como Chave.
@@ -77,7 +77,7 @@ O transistor é um dispositivos que se projetado para atuar como chave é capaz 
 
 <center>
 <br/>
-<img src='/images/2ele031/lab1/transistor.png'>
+<img src='/images/2ele031/lab1_velho/transistor.png'>
 <p>Figura 2-Transistor BJT NPN como chave</p>
 </center>
 
@@ -86,7 +86,7 @@ A figura 3 mostra o detalhamento da figura anterior, caso o resistor da base est
 
 <center>
 <br/>
-<img src='/images/2ele031/lab1/detalhamento_transistor.png'>
+<img src='/images/2ele031/lab1_velho/detalhamento_transistor.png'>
 <p>Figura 3-Detalhamento do Circuito da Figura 2 conforme o sinal da base.</p>
 </center>
 
@@ -94,7 +94,7 @@ Retornando ao problema do acionamento da bobina do Rele sendo comandada por um s
 
 <center>
 <br/>
-<img src='/images/2ele031/lab1/ligacao_bobina.png'>
+<img src='/images/2ele031/lab1_velho/ligacao_bobina.png'>
 <p>Figura 4-Acionamento da bobina de um Rele utilizando um sinal de microcontrolador com Transistor NPN</p>
 </center>
 
@@ -107,7 +107,7 @@ Uma forma muito simples de mostrar informações numéricas para um usuário em 
 
 <center>
 <br/>
-<img src='/images/2ele031/lab1/display.png'>
+<img src='/images/2ele031/lab1_velho/display.png'>
 <p>Figura 5-Esquemático de Display 7-segmentos Câtodo comum e Anodo Comum</p>
 </center>
 
@@ -115,15 +115,15 @@ Utilizando um display 7-segmentos Catodo comum, podemos ligar ao cada um de seus
 
 <center>
 <br/>
-<img src='/images/2ele031/lab1/ligacao_display.png'>
+<img src='/images/2ele031/lab1_velho/ligacao_display.png'>
 <p>Figura 6-Acionamento de um display Catodo comum utilizando o Arduino</p>
 </center>
 
 Montagem Experimental
 =====
-* [**Introdução**](/2ele031/lab1)
-* [Warm Up](/2ele031/lab1/00)
-* [Projeto 1](/2ele031/lab1/01)
-* [Projeto 2](/2ele031/lab1/02)
-* [Projeto 3](/2ele031/lab1/03)
-* [Desafio](/2ele031/lab1/04)
+* [**Introdução**](/2ele031/lab1_velho)
+* [Warm Up](/2ele031/lab1_velho/00)
+* [Projeto 1](/2ele031/lab1_velho/01)
+* [Projeto 2](/2ele031/lab1_velho/02)
+* [Projeto 3](/2ele031/lab1_velho/03)
+* [Desafio](/2ele031/lab1_velho/04)
