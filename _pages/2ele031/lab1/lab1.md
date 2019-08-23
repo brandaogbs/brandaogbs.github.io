@@ -25,3 +25,8 @@ Exercícios
 ======
 * Link do repositório com os códigos desenvolvidos.
 * Link dos exercícios propóstos
+
+Material de Apoio
+=====
+* [DISCIPLINA](/2ele031/)
+* [**LAB1**](/2ele031/lab1)
