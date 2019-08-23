@@ -19,12 +19,13 @@ Proposta
 
 Apresentação
 ======
-* Link para download da [Apresentação](https://docs.google.com/presentation/d/13sDmAowIcPrRdmDfvWTfxJu3CK1fHOgC0ELO1LDueMA/edit?usp=sharing).
+* Link para download da [Apresentação](https://github.com/brandaogbs/meel/blob/master/2ele031/lab/lab1/slides/lab1.pdf).
 
 Exercícios
 ======
-* Link do repositório com os códigos desenvolvidos.
-* Link dos exercícios propóstos
+* Link do repositório com os [Códigos](https://github.com/brandaogbs/meel/tree/master/2ele031/lab/lab1/codes) desenvolvidos em sala.
+* Link dos [Exercícios propóstos](https://github.com/brandaogbs/meel/blob/master/2ele031/lab/lab1/exs/exercicios.txt).
+
 
 Material de Apoio
 =====
