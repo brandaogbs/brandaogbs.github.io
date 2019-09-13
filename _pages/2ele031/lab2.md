@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Projeto Integrador 1B -- Lab1"
+title: "Projeto Integrador 1B -- Lab2"
 permalink: /2ele031/lab2
 author_profile: false
   
