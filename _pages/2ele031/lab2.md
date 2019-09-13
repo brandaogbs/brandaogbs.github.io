@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Projeto Integrador 1B -- Lab1"
-permalink: /2ele031/lab1
+permalink: /2ele031/lab2
 author_profile: false
   
 ---
