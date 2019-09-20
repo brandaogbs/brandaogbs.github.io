@@ -19,8 +19,8 @@ Proposta
 
 Apresentação
 ======
-* Link para download da [Apresentação] sobre Orientação a Objetos (https://github.com/brandaogbs/meel/blob/master/2ele031/lab/lab3/slides/lab3_oo.pdf).
-* Link para download da [Apresentação] sobre Git (https://github.com/brandaogbs/meel/blob/master/2ele031/lab/lab3/slides/lab3_git.pdf).
+* Link para download da [Apresentação](https://github.com/brandaogbs/meel/blob/master/2ele031/lab/lab3/slides/lab3_oo.pdf) sobre Orientação a Objetos.
+* Link para download da [Apresentação](https://github.com/brandaogbs/meel/blob/master/2ele031/lab/lab3/slides/lab3_git.pdf) sobre Git.
 
 Exercícios
 ======
