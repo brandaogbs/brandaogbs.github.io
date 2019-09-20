@@ -14,6 +14,6 @@ author_profile: false
 
 Sistemas Operacionais Embarcados
 ======
-* [Introdução](https://brandaogbs.github.io/linux/03)
-* Motivações
 * O Curso
+* Motivações
+* Introdução
