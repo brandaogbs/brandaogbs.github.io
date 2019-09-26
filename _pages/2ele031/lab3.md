@@ -25,6 +25,7 @@ Apresentação
 Exercícios
 ======
 * Link do repositório com os [Códigos](https://github.com/brandaogbs/meel/blob/master/2ele031/lab/lab3/src/jogo/main.py) desenvolvidos em sala.
+* Download do [repositório](https://github.com/brandaogbs/meel/tree/master/2ele031/lab/lab3/src/jogo). 
 
 
 Material de Apoio
