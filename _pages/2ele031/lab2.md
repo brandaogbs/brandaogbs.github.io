@@ -32,3 +32,5 @@ Material de Apoio
 * [DISCIPLINA](/2ele031/)
 * [LAB1](/2ele031/lab1)
 * [**LAB2**](/2ele031/lab2)
+* [LAB3](/2ele031/lab3)
+
