@@ -24,8 +24,8 @@ Apresentação
 
 Exercícios
 ======
-* Link do repositório com os [Códigos](https://github.com/brandaogbs/meel/blob/master/2ele031/lab/lab3/src/jogo/main.py) desenvolvidos em sala.
-* Download do [repositório](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Fbrandaogbs%2Fmeel%2Ftree%2Fmaster%2F2ele031%2Flab%2Flab3%2Fsrc%2Fjogo). 
+* Link do repositório com os [Códigos](https://github.com/brandaogbs/meel/blob/master/2ele031/lab/lab3/src) desenvolvidos em sala.
+* Download do [repositório](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Fbrandaogbs%2Fmeel%2Ftree%2Fmaster%2F2ele031%2Flab%2Flab3). 
 
 
 Material de Apoio
