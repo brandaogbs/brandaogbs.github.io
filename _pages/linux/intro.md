@@ -28,6 +28,7 @@ Desenvolvimento de Sistemas Linux Embarcados
 
 Navegação
 ======
+
 [**Introdução**](/linux/intro)
 [Dia 1](/linux/01)
 [Dia 2](/linux/02)
