@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Curso Linux -- Introdução"
-permalink: /linux/01
+permalink: /linux/intro
 author_profile: true
   
 ---
