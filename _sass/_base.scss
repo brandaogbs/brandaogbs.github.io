@@ -1,7 +1,7 @@
 /* ==========================================================================
-   BASE ELEMENTS
-   ========================================================================== */
-html {
+  BASE ELEMENTS
+  ========================================================================== */
+  html {
   /* sticky footer fix */
   position: relative;
   min-height: 100%;
@@ -126,14 +126,13 @@ a {
 
 tt, code, kbd, samp, pre {
   font-family: $monospace;
-  font-size: 0.9em
 }
 
 pre {
   overflow-x: auto; /* add scrollbars to wide code blocks*/
 }
 
-p > ,
+p > code,
 a > code,
 li > code,
 figcaption > code,
@@ -174,8 +173,8 @@ li ol {
 }
 
 /*
-   Media and embeds
-   ========================================================================== */
+    Media and embeds
+    ========================================================================== */
 
 /* Figures and images */
 
@@ -264,21 +263,21 @@ svg:not(:root) {
 
 
 /*
-   Navigation lists
-   ========================================================================== */
+    Navigation lists
+    ========================================================================== */
 
 /**
- * Removes margins, padding, and bullet points from navigation lists
- *
- * Example usage:
- * <nav>
- *    <ul>
- *      <li><a href="#link-1">Link 1</a></li>
- *      <li><a href="#link-2">Link 2</a></li>
- *      <li><a href="#link-3">Link 3</a></li>
- *    </ul>
- *  </nav>
- */
+  * Removes margins, padding, and bullet points from navigation lists
+  *
+  * Example usage:
+  * <nav>
+  *    <ul>
+  *      <li><a href="#link-1">Link 1</a></li>
+  *      <li><a href="#link-2">Link 2</a></li>
+  *      <li><a href="#link-3">Link 3</a></li>
+  *    </ul>
+  *  </nav>
+  */
 
 nav {
   ul {
@@ -307,8 +306,8 @@ nav {
 }
 
 /*
-   Global animation transition
-   ========================================================================== */
+    Global animation transition
+    ========================================================================== */
 
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, tr, td, form button, input[type="submit"], .btn, .highlight, .archive__item-teaser {
   -webkit-transition: $global-transition;
