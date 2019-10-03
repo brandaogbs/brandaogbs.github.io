@@ -30,6 +30,6 @@ Navegação
 ======
 
 * [**Introdução**](/linux/intro)
-* [Dia 1](/linux/01)
-* [Dia 2](/linux/02)
-* [Dia 3](/linux/03)
+* [Parte 1](/linux/01)
+* [Parte 2](/linux/02)
+* [Parte 3](/linux/03)
