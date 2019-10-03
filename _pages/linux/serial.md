@@ -43,4 +43,4 @@ sudo poweroff
 
 e faça a conexão entre o adaptador USB-Serial (TTL) e a placa. Certifique-se de escolher a opção/jumper 3.3v caso o adaptador permita. Por padrão, a RPi roteia os pinos `GPIO14` e `GPIO15` como *TX* e *RX* da serial principal (aquela que não está sendo utilizada pelo módulo BT), respectivamente. Esses GPIOS estão mapeados nos *pinos 08 e 10*, respectivamente, do conector geral de 40 pinos. Os *pinos 01 e 02* de tal conector são aqueles fisicamente próximos da borda oposta às entradas USB. O *pino 01* é o pino mais interno e o *pino 02* é o mais externo, próximo da borda lateral. As figuras a seguir exibem a descrição completa do conector de 40 pinos e indicação dos pinos fisicamente. Após analisar as figuras, faça as três conexões, *TX*, *RX* e *GND*, entre seu adaptador e a RPi3.
 
-![Pinout RPi3](images/linux/rpi_conector.jpg)
+![](/images/linux/rpi_conector.jpg)
