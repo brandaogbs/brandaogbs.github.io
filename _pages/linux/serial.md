@@ -46,7 +46,7 @@ e faça a conexão entre o adaptador USB-Serial (TTL) e a placa. Certifique-se d
 ![](/images/linux/rpi_conector.jpg)
 **Pinout RPi3:** Descrição dos pinos da RPi 3
 
-![](/images/linux/rpi_conector.jpg)
+![](/images/linux/rpi_conector_serial.jpg)
 **Conexão Serial:** Descrição dos pinos da UART da RPi 3
 
 ## Testando a Comunicação Serial
@@ -75,5 +75,3 @@ Após identificar seu dispositivo, abra o **putty** e o configure da seguinte ma
 > Obs: clique em *Default Settings* e em seguida *Save*, de modo a salvar as configurações feitas e não precisar repeti-las sempre que iniciar o **putty**.
 
  Clique em *Open* para iniciar uma nova conexão e, se tudo foi configurado corretamente, ao ligar a RPi 3, um console deverá ser exibido na janela do **putty**. Caso tenha ocorrido algum erro, peça ajuda ao instrutor.
-
- 

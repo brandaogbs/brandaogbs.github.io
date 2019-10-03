@@ -62,3 +62,10 @@ make rpi_3_32b_defconfig
 make -j2 CROSS_COMPILE=arm-linux-
 </pre>
 
+Verifique o arquivo criado, `u-boot.bin`, através do comando:
+
+<pre>
+ls - l u-boot.bin
+-rw-rw-r- - 1 gbs gbs 427560 Oct 03 06:39 u-boot.bin
+</pre>
+
