@@ -263,3 +263,16 @@ tools/mkimage -A arm -O linux -T script -d rpi3scr.txt boot.scr
 onde os argumentos representam: arquitetura do executável (*-A*), sistema operacional (*-O*), tipo da imagem (*-T*), arquivo de entrada com os comandos digitados no gedit (*-d*) e arquivo de saída (`boot.src`), que é uma imagem do script.
 
 Após a execução do comando, copie o arquivo `boot.scr` para o diretório `boot` da RPi via `scp`. Se tudo foi realizado corretamente, reinicie a RPi e digite o comando `boot` no shell do **U-Boot**. É possível ativar o *autoboot* através da modificação da variável de ambiente *bootdelay*, que representa o delay em segundos antes de iniciar o boot pelo script `boot.scr`. Se desejar, altera-a, salve as variáveis de ambiente no cartão SD (`saveen`) e reinicie o **U-Boot**.
+
+
+---
+# Navegação
+
+* [Introdução](/linux/intro)
+* [**Parte 1**](/linux/01)
+    * [Toolchain](/linux/toolchain)
+    * [**Bootloader**](/linux/bootloader)
+    * [Config. Conexão de Rede](/linux/rede)
+    * [Config. Comunicação Serial](/linux/serial)
+* [Parte 2](/linux/02)
+* [Parte 3](/linux/03)

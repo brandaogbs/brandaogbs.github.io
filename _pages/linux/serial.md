@@ -76,3 +76,16 @@ Após identificar seu dispositivo, abra o **putty** e o configure da seguinte ma
 > Obs: clique em *Default Settings* e em seguida *Save*, de modo a salvar as configurações feitas e não precisar repeti-las sempre que iniciar o **putty**.
 
  Clique em *Open* para iniciar uma nova conexão e, se tudo foi configurado corretamente, ao ligar a RPi 3, um console deverá ser exibido na janela do **putty**. Caso tenha ocorrido algum erro, peça ajuda ao instrutor.
+
+
+---
+# Navegação
+
+* [Introdução](/linux/intro)
+* [**Parte 1**](/linux/01)
+    * [Toolchain](/linux/toolchain)
+    * [Bootloader](/linux/bootloader)
+    * [Config. Conexão de Rede](/linux/rede)
+    * [**Config. Comunicação Serial**](/linux/serial)
+* [Parte 2](/linux/02)
+* [Parte 3](/linux/03)

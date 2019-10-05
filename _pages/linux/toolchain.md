@@ -304,3 +304,16 @@ ssh pi@10.1.1.100
 cd
 ./helloARMctng
 </pre>
+
+
+---
+# Navegação
+
+* [Introdução](/linux/intro)
+* [**Parte 1**](/linux/01)
+    * [**Toolchain**](/linux/toolchain)
+    * [Bootloader](/linux/bootloader)
+    * [Config. Conexão de Rede](/linux/rede)
+    * [Config. Comunicação Serial](/linux/serial)
+* [Parte 2](/linux/02)
+* [Parte 3](/linux/03)
