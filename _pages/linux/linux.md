@@ -46,7 +46,7 @@ Instruções gerais.
 
 Será necessário utilizar um host Linux como ambiente de desenvolvimento. Por ser extremamente popular, estável e fácil de usar, utilizaremos a distribuição Ubuntu 16.04.4 - LTS de 32 bits. Caso você seja um usuário Linux experiente e queira utilizar sua distro de costume, sem problemas.
 
-Baixar e instalar a distribuição Ubuntu 16.04.4 - LTS 32 bits: Download (torrent), Download (http).
+Baixar e instalar a distribuição Ubuntu 16.04.4 - LTS 32 bits: [Site Download](http://releases.ubuntu.com/16.04/).
 
 Quanto ao método de instalação, VM, Single Boot, Dual Boot (windows+linux), fica a critério do participante. Recomendo que reserve um espaço de aproximadamente 40GB (já com swap). Pois algumas ferramentas de desenvolvimento como toolchain, fontes do kernel e drivers, por exemplo, costuma ocupar bastante espaco.
 
@@ -103,7 +103,7 @@ $ sudo apt install autoconf bison flex texinfo automake help2man gawk libtool-bi
 
 Raspbian-strech lite:
 
-- Se possível, baixe e instale a versão Raspbian-strech lite (sem desktop) no seu cartão micro SD. Apesar de gerarmos nosso próprio sistema Linux durante o treinamento, em alguns exercícios iniciais será interessante possuir algo "rodando" na RPi3 para realização de testes.
+- Se possível, [baixe](https://www.raspberrypi.org/downloads/raspbian/) e [instale](https://www.raspberrypi.org/documentation/installation/installing-images/README.md) a versão Raspbian-strech lite (sem desktop) no seu cartão micro SD. Apesar de gerarmos nosso próprio sistema Linux durante o treinamento, em alguns exercícios iniciais será interessante possuir algo "rodando" na RPi3 para realização de testes.
 
 - Após instalar o raspbian, conecte um teclado USB, um monitor hdmi e ligue a Raspberry. Ela irá carregar o sistema e então as informações de login serão pedidas. Por padrão, o Raspbian possui o usuário "pi" e a senha "raspberry". Após logar no sistema, ative o servidor ssh. Rode o comando abaixo para acessar o menu de configurações da RaspberryPi e acesse a seguinte opção: 5 Interfacing Options -> P2 SSH -> YES
 
