@@ -91,15 +91,15 @@ Instalar os seguintes pacotes:
 
 Caso não esteja familiarizado, no Ubuntu um pacote pode ser instalado pelo shell da seguinte maneira: 
 
-```
+<pre>
 $ sudo apt-get install nome_do_pacote
-```
+</pre>
 
 Para facilitar a instalação dos pacotes sugeridos acima, execute o seguinte comando: 
 
-```
+<pre>
 $ sudo apt install autoconf bison flex texinfo automake help2man gawk libtool-bin libncurses5-dev libexpat1-dev python-dev patch curl cvs git bc build-essential subversion gperf unzip pkg-config wget minicom putty
-```
+</pre>
 
 Raspbian-strech lite:
 
@@ -107,26 +107,27 @@ Raspbian-strech lite:
 
 - Após instalar o raspbian, conecte um teclado USB, um monitor hdmi e ligue a Raspberry. Ela irá carregar o sistema e então as informações de login serão pedidas. Por padrão, o Raspbian possui o usuário "pi" e a senha "raspberry". Após logar no sistema, ative o servidor ssh. Rode o comando abaixo para acessar o menu de configurações da RaspberryPi e acesse a seguinte opção: 5 Interfacing Options -> P2 SSH -> YES
 
-```
+<pre>
 $ sudo raspi-config
-```
+</pre>
 
 Em seguida, atribua um IP estático para a Raspberry Pi. Para isso, edite o arquivo dhcpcd.conf, localizado no diretório /etc/: 
 
-```
+<pre>
 $ sudo nano /etc/dhcpcd.conf
-```
+</pre>
 
 Procure pela linha "# Example static IP configuration:" e altere-a da seguinte maneira: 
 
-```
+<pre>
 # Example static IP configuration:
 #interface eth0
 static ip_address=10.1.1.100/24
 #static ip6_address=fd51:42f8:caae:d92e::ff/64
 static routers=10.1.1.1
 ... 
-```
+</pre>
+
 Após editar o arquivo, salve-o pressionando Ctrl+X, então confirme as modificações pressionando Y e por último, não altere o nome do arquivo, apenas pressione Enter. 
 
 Mais informações em breve ...
