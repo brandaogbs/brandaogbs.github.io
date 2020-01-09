@@ -19,7 +19,7 @@ Desenvolvimento de Sistemas Linux Embarcados
 
 Olá! Esta página destina-se a disponibilizar informações gerais e atualizações relacionadas ao curso Desenvolvimento de Sistemas Linux Embarcados, ministrado no mês de fevereiro de 2020, na Especialização em Sistemas Eletrônicos Embarcados (ESEE) da Universidade Estadual de Londrina (UEL). 
 
-[Link para **INSCRIÇÃO**](https://www.sistemasweb.uel.br/index.php?contents=system/insc/index.php&pagina=view/inscricoes/seleciona_evento.php&cod_evento=5404)
+Link para [**INSCRIÇÃO**](https://www.sistemasweb.uel.br/index.php?contents=system/insc/index.php&pagina=view/inscricoes/seleciona_evento.php&cod_evento=5404)
 
 ## Requisitos
 
