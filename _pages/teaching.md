@@ -7,7 +7,7 @@ author_profile: true
 
 ---
 
-## [DSLE20](brandaogbs.github.io/linux)
+## [DSLE20](/linux/)
 
-## [2ELE031](brandaogbs.github.io/2ele031)
+## [2ELE031](/2ele031/)
 
