@@ -9,7 +9,7 @@ author_profile: true
 ## Papers
 
 ### Howland Current Source applied to Magnetic Field Generation in a Tri-axial Helmholtz Coil 
-BATISTA, DANIEL S.; SILVA, GUILHERME B. ; GRANZIERA, FRANCISCO ; TOSIN, MARCELO C. ; FILHO, DECIO L. GAZZONI ; MELO, LEONIMER F. . Howland Current Source applied to Magnetic Field Generation in a Tri-axial Helmholtz Coil. IEEE Access, v. 7, p. 1-1, 2019. 
+* Recommended citation: *BATISTA, DANIEL S.; SILVA, GUILHERME B. ; GRANZIERA, FRANCISCO ; TOSIN, MARCELO C. ; FILHO, DECIO L. GAZZONI ; MELO, LEONIMER F. . Howland Current Source applied to Magnetic Field Generation in a Tri-axial Helmholtz Coil. IEEE Access, v. 7, p. 1-1, 2019.*
 
 ## Conference Papers
 
