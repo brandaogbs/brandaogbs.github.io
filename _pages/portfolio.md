@@ -21,6 +21,12 @@ A friendly embedded system for instrumentation and control of silos furmigation.
 
 ---
 
+## LockIO
+A modern and interactive locker machine for street stores.  
+`Embedded Linux`, `H-M Interface`, `Firmware`.
+<center><br/><img src='/images/500x300.png'></center>
+
+---
 
 ## A HiL Platform for Modeling and Control of Quadcopters
 A Hardware in the Loop platform based on dSpace and an embedded real-time quadcopter for 4DoF projects.  
