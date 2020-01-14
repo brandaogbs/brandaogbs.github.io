@@ -66,6 +66,8 @@ Skills
 
 Publications
 ======
+* *BATISTA, DANIEL S.; SILVA, GUILHERME B. ; GRANZIERA, FRANCISCO ; TOSIN, MARCELO C. ; FILHO, DECIO L. GAZZONI ; MELO, LEONIMER F. . **Howland Current Source applied to Magnetic Field Generation in a Tri-axial Helmholtz Coil.** IEEE Access, v. 7, p. 1-1, 2019.* 
+
 * *Rodrigues, V. C. ; SILVA, G. B. ; Batista, D. S. ; TOSIN, M. C. ; Granziera Jr., F. . **Numerical Error and Temporal Analysis of Embedded Magnetic Sensor Calibration using ARM Cortex-M4 Processor.** In: International Conference on Industry Applications (INDUSCON), 2018, São Paulo. 13th IEEE/IAS International Conference on Industry Applications, 2018.* 
 
 * *FUJITA, R. ; Rodrigues, V. C. ; SILVA, G. B. ; Batista, D. S. ; Granziera Jr., F. . **Aplicação de um sistema embarcado e filtragem de Kalman para estimação de volume e fluxo de reservatório hídrico**. In: Conferência Brasileira de Dinâmica, Controle e Aplicações, 2017, São José do Rio Preto. Proceeding Series of the Brazilian Society of Computational and Applied Mathematics.*
