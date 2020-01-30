@@ -21,7 +21,7 @@ Olá! Esta página destina-se a disponibilizar informações gerais e atualizaç
 
 Link para [**INSCRIÇÃO**](https://www.sistemasweb.uel.br/index.php?contents=system/insc/index.php&pagina=view/inscricoes/seleciona_evento.php&cod_evento=5404)
 
-Link para o [**Material Extra**](https://brandaogbs.gitbook.io/dsle20/)
+Link para o [**Treinamento**](https://brandaogbs.gitbook.io/dsle20/)
 
 ## Requisitos
 
