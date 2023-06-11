@@ -60,7 +60,7 @@
   }
 
   .menu-logo {
-    max-width: 40px;
+    max-width: 35px;
   }
 
   .trigger {
@@ -119,8 +119,8 @@
     border-bottom: 1px solid $light;
 
     a#mode {
-      left: 10px;
       top: 12px;
+      visibility: hidden;
     }
 
     .menu-icon {
@@ -379,5 +379,15 @@
     border-radius: 2px;
     border: 1px solid rgba(128, 128, 128, 0.1);
     background-color: rgba(128, 128, 128, 0.1);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .menu-logo {
+      margin-top: 10px
+  }
+
+  #mode {
+     positon: absolute;
   }
 }
