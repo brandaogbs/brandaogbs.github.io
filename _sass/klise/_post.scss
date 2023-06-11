@@ -32,7 +32,7 @@
     margin-bottom: 20px;
 
     &.center {
-      text-align: center;
+      text-align: left;
     }
 
     @include media-query($on-mobile) {
