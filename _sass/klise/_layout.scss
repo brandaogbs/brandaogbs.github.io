@@ -17,9 +17,9 @@
   -webkit-user-select: none;
 
   a#mode {
-    float: left;
+    float: right;
     left: 8px;
-    top: 6px;
+    top: 2px;
     position: relative;
     clear: both;
     -webkit-transform: scale(1, 1);
@@ -57,6 +57,10 @@
         stroke: $dark-white;
       }
     }
+  }
+
+  .menu-logo {
+    max-width: 40px;
   }
 
   .trigger {
