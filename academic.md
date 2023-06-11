@@ -1,5 +1,5 @@
 ---
-title: ./academic
+title: academic
 permalink: /academic/
 layout: page
 comments: false

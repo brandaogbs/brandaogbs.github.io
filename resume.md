@@ -1,5 +1,5 @@
 ---
-title: ./resume
+title: resume
 permalink: /resume/
 layout: page
 comments: false
