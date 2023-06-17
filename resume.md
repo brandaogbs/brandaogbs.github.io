@@ -99,11 +99,10 @@ Responsibilities and key achievements:
 # Experience
 ---
 ## Golfleet/V3 (Embedded Tech. Lead. | 2021 - current)
-##### Embedded Technical Leader (03/2022 - current)
-
 Embedded software development for smart dash cams, focusing on video telematics.
+##### Embedded Technical Leader (03/2022 - current)
 - Embedded architecture planning for smart dash cams.
-- Working on the automation of the Q&A process, the CI/CD, and the end-to-end equipment test platform.
+- Working on the automation of the Q&A process, the CI/CD, and the end-to-end (HiL) equipment test platform.
 - Assist in the design and development of cloud services and integration APIs.
 - Leadership and management of the development team, actively in the team recruiting and interviews.
     
