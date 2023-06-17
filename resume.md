@@ -5,20 +5,6 @@ layout: page
 comments: false
 ---
 
-<!-- <div> -->
-<!--     <div style="float: right; margin-left: 10px;"> -->
-<!--         <img src="/assets/img/profile.png" alt="Image Description" width="120"> -->
-<!--     </div> -->
-<!--     <div> -->
-<!--         <h1 style="margin-bottom: 0;">Guilherme B. da Silva</h1> -->
-<!--         <h5 style="margin-top: 0; margin-bottom: 10px;"> -->
-<!--             <p style="color: gray; margin: 0;">MSc. in Electrical Engineering</p> -->
-<!--             <p style="color: gray; margin: 0;">Embedded Software Engineer &</p> -->
-<!--             <p style="color: gray; margin: 0;">Embedded Tech. Lead. at V3</p> -->
-<!--         </h5> -->
-<!--     </div> -->
-<!-- </div> -->
-
 <style>
     .container {
         overflow: auto;
@@ -112,8 +98,8 @@ Responsibilities and key achievements:
 
 # Experience
 ---
-## Golfleet/V3 (2021 - current)
-##### Embedded Technical Lead (03/2022 - current)
+## Golfleet/V3 (Embedded Tech. Lead. | 2021 - current)
+##### Embedded Technical Leader (03/2022 - current)
 
 Embedded software development for smart dash cams, focusing on video telematics.
 - Embedded architecture planning for smart dash cams.
