@@ -45,7 +45,8 @@ defaults:
       path: ""
     values:
       layout: post
-      comments: false
+      comments: true
+      image_path: /assets/img/posts/
 
 # Jekyll Compose default front matter
 jekyll_compose:
