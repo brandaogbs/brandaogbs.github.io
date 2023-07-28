@@ -56,6 +56,9 @@ comments: false
 # Publications
 ---
 
+### Real-time ego-lane detection in a low-cost embedded platform using CUDA-based implementation
+- Recommended citation: G. B. Silva; D. S. Batista; D. L. Gazzoni Filho; M. C. Tosin; L. F. de Melo. "Real-time ego-lane detection in a low-cost embedded platform using CUDA-based implementation", Semina: Exact and Technological Sciences. Article in-press, accepted for publication. 2023
+
 ### **Howland Current Source applied to Magnetic Field Generation in a Tri-axial Helmholtz Coil**
 
 - Recommended citation: *BATISTA, DANIEL S.; SILVA, GUILHERME B. ; GRANZIERA, FRANCISCO ; TOSIN, MARCELO C. ; FILHO, DECIO L. GAZZONI ; MELO, LEONIMER F. . Howland Current Source applied to Magnetic Field Generation in a Tri-axial Helmholtz Coil. IEEE Access, v. 7, p. 1-1, 2019.*
