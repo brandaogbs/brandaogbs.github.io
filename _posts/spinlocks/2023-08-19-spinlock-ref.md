@@ -143,7 +143,28 @@ gbs@gojira:~/fun/blog/cpp/spinlock/build $ ./spinlock
 200000
 ```
 
-And as expected, it works pretty well. Now, let’s create a better test and also add the Google Benchmark (https://github.com/google/benchmark) to evaluate our different implementations of spinlock.
+And as expected, it works pretty well. Let's take a look at the assembly code of our implementation (https://godbolt.org/z/Mr8G3xY94). Feel free to change the compiler and CPU architecture, I'm using an AMR64-Clang here.
+
+
+```assembly
+.LBB0_1:
+        swpalb  w9, w11, [x0]
+        tbnz    w11, #0, .LBB0_1
+        ldr     x11, [x1]
+        add     w8, w8, #1
+        cmp     w8, w10
+        add     x11, x11, #1
+        str     x11, [x1]
+        stlrb   wzr, [x0]
+        b.ne    .LBB0_1
+        ret
+```
+
+Here is our principal loop. It's a straightforward loop, the first thing we see is the `swpalb`, the aarch64 instruction for swap byte in memory with release semantics (atomic). This is our `lock()` which is spinning in a loop by the `tbnz` instruction util the previous swap returns `false`.
+
+Then, we have the `ldr`, `add`, `str` incrementing our variable (i.e. `val++`). Finally, we have the `stlrb`, atomic store for the `unlock()`.
+
+Now, let’s create a better test and also add the Google Benchmark (https://github.com/google/benchmark) to evaluate our different implementations of spinlock.
 
 ```cpp
 static void bm_ref(benchmark::State &s) {
@@ -187,4 +208,5 @@ bm_ref/6/real_time  114636946 ns       135429 ns            7
 bm_ref/7/real_time  127173375 ns       124667 ns            6
 bm_ref/8/real_time  161605250 ns       137000 ns            5
 ```
+
 This is the first part of this series. In the next parts, we’ll try to evaluate and improve this spinlock. Let’s try to analyze it deeply and take a look at how spinlock is really implemented.

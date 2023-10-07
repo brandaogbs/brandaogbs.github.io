@@ -11,3 +11,5 @@ Thanks to amazing people that I met, who help me out from follishness, connectin
 <hr>
 
 Hopefully the knowledge that I got from them can be useful, and become a charity for them.
+
+Keep in mind that my desire is for more, and it will never be enough.
