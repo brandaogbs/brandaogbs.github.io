@@ -55,12 +55,16 @@ comments: false
 
 # Publications
 ---
+### PQC-AMX: Accelerating Saber and FrodoKEM on the Apple M1 and M3 SoCs (preprint)
+- Recommended citation: *GAZZONI FILHO, Décio Luiz, BRANDÃO, Guilherme, ADJ, G., Alblooshi, A., CANALES-MARTÍNEZ, I.A., CHÁVEZ-SAAB, J. and LÓPEZ, J. (2024). PQC-AMX: Accelerating Saber and FrodoKEM on the Apple M1 and M3 SoCs. [online] Cryptology ePrint Archive (eprint.iacr.org). Available at: https://eprint.iacr.org/2024/195*
+
+### Fast polynomial multiplication using matrix multiplication accelerators with applications to NTRU on Apple M1/M3 SoCs.
+- Recommended citation: *GAZZONI FILHO, Décio Luiz; BRANDÃO, Guilherme ; LOPEZ, Julio. Fast polynomial multiplication using matrix multiplication accelerators with applications to NTRU on Apple M1/M3 SoCs. IACR Communications in Cryptology, v. 1, p. 9, 2024.*
 
 ### Real-time ego-lane detection in a low-cost embedded platform using CUDA-based implementation
 - Recommended citation: G. B. Silva; D. S. Batista; D. L. Gazzoni Filho; M. C. Tosin; L. F. de Melo. "Real-time ego-lane detection in a low-cost embedded platform using CUDA-based implementation", Semina: Exact and Technological Sciences. Article in-press, accepted for publication. 2023
 
 ### **Howland Current Source applied to Magnetic Field Generation in a Tri-axial Helmholtz Coil**
-
 - Recommended citation: *BATISTA, DANIEL S.; SILVA, GUILHERME B. ; GRANZIERA, FRANCISCO ; TOSIN, MARCELO C. ; FILHO, DECIO L. GAZZONI ; MELO, LEONIMER F. . Howland Current Source applied to Magnetic Field Generation in a Tri-axial Helmholtz Coil. IEEE Access, v. 7, p. 1-1, 2019.*
 
 ---

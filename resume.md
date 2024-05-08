@@ -40,8 +40,7 @@ comments: false
         <h1 class="name">Guilherme Brandão da Silva</h1>
         <h5 class="subtitle">
             <p class="gray-text">MSc. in Electrical Engineering |</p>
-            <p class="gray-text">Embedded Software Engineer &</p>
-            <p class="gray-text">Embedded Tech. Lead. at V3</p>
+            <p class="gray-text">Embedded Software Engineer at Wind River</p>
         </h5>
     </div>
 </div>
@@ -98,15 +97,26 @@ Responsibilities and key achievements:
 
 # Experience
 ---
-## Golfleet/V3 (Embedded Tech. Lead. | 2021 - current)
-Embedded software development for smart dash cams, focusing on video telematics.
-##### Embedded Technical Leader (03/2022 - current)
-- Embedded architecture planning for smart dash cams.
-- Working on the automation of the Q&A process, the CI/CD, and the end-to-end (HiL) equipment test platform.
-- Assist in the design and development of cloud services and integration APIs.
-- Leadership and management of the development team, actively in the team recruiting and interviews.
+## Wind River (Embedded Software Engineer | 09/23 - current)
+Working with Critical River.
+Contributed to code hardening efforts to achieve DO-178C compliance for the VxWorks's BSPs (Board Support Package) and Bootloader. Designing critical software, API specifications, and conducting static analysis to ensure adherence to certification guidelines for safety and quality.
+- Code hardened and complied with certification guidelines for safety and quality. Updated, built, debugged, and tested VxWorks components. (`C`, `VxWorks`, `MISRA`, `Coverity`, `Jenkins`)
+- Worked on the API specification for several components used for DO-178C certification evidence. (`C`, `DO-178C`, `Polarion`)
+- Create and upgrade developer tools for static analysis, binary analysis, and code hardening. (`Python`, `DWARF`, `Elftools`, `Jenkins`)
     
-##### Embedded Software Developer (03/2021 - 03/2022)
+## Golfleet/V3 (Embedded Tech. Lead. | 03/21 - 09/23)
+V3 provides TSPs and OEMs market with end‑to‑end video telemetry solutions applied to smart dash‑cams besides API integration for fleet management.
+##### Embedded Technical Leader (03/22 - 09/23)
+- Designed and implemented the event‑driven software architecture for the principal product. The new version presented a
+reduction of almost 80% of the code, and the memory profile was reduced by 61%; at the same time that included new key features for the product. (`Android Headless`, `OOP`, `Design Pattern`, `Gherkin`)
+- Developed testable and flexible software for smart dash‑cams. Worked on the sensor’s data acquisition and processing for analyzing vehicle and driver’s behavior and other modules.  (`Java`, `Kotlin`, `Python`, `Pytest`, `Mockk`, `Android Headless`)
+- Implemented communication protocols and message generation system. Designed device telemetry events for TSP companies. Also, the over‑the‑air updates, commands, and configurations for the devices. (`Java`, `Kotlin`, `ProtoBuffer`, `AWS`, `UDP`, `MQTT`)
+- Designed the Q&A process and tools. Automated CI/CD pipeline, the end‑to‑end, and HiL (hardware‑in‑the‑loop) equipment tests platform. Created tools, scripts, and software integration for analysis and deployment. (`Python`, `Pytest`, `Gitlab CI/CD`)
+– Acted as technical leader on project management, research on new technologies for the products, organized team activities, and planned milestones. (`Agile`, `Scrum`, `Gitlab Project`).
+– Conducted meetings with other teams, requirements analysis, commercial presentations, and technical reports. Mentored other engineers. Helped to build the developer’s team, lead interviews, and hiring.
+
+    
+##### Embedded Software Developer (03/21 - 02/22)
 - New features development, technical improvements, and maintenance of existing embedded software.
 - Porting of existing embedded applications to a new hardware device.
 - Development of services, APIs, and libraries for cloud applications.
