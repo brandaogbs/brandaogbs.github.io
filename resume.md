@@ -45,8 +45,7 @@ comments: false
     </div>
 </div>
 
-I am very passionate about new technologies research and development, always looking for challenges. Writing software for solving problems, while not being afraid of any hardware integration, excites me. Good communication skills, driven by teamwork, always willing to help those around and objectively reporting results, regardless of whether they are good. Fast learner experienced in Linux, Android, and bare-metal embedded systems development. Usual activities involve real-time programming, telemetry, computer vision, and electronic instrumentation.
-Not in my skills, I love to study and research processor architectures, software engineering lore, and machine learning.
+I am highly passionate about research and development in new technologies, constantly seeking out challenges. I find great excitement in writing software to solve real‑world problems, while not being afraid of any hardware integration. Thrive in diving into complex code bases and solving problems others may avoid. I possess strong communication skills, driven by teamwork, and always willing to assist those around me while objectively reporting results. I am a fast learner with experience in Linux, Android, and bare‑metal embedded systems development. My usual activities include real‑time programming, telemetry, computer vision, and electronic instrumentation.
 
 # Education
 
@@ -69,31 +68,6 @@ Not in my skills, I love to study and research processor architectures, software
     <p class="gray-text">UTFPR (Federal Technological University of Paraná) - 2010/2013</p>
 </div>
 </div>
-
-# Projects
----
-<div>
-    <h4 class="subtitle">CUDA‑based Real-Time Ego‑Lane Detection in Embedded Systems</h4>
-    <h5 class="gray-text">Master's thesis - Electrical Engineering (UEL) - 2022</h5>
-</div>
-This work proposed the heterogeneous embedded implementation of a real-time lane detection system capable of estimating lane marks from images of a monocular camera. Each frame is processed to obtain a suitable bird’s eye view perspective. Were extracted the lane mark features to build different feature maps. Then the maps are combined to generate a robust binary frame with the lane marks used for the lanes estimation.
-
-- Responsible for the embedded hardware choice, algorithm design, and software implementation, testing, and validation (`CUDA`, `C++`, `OpenCV`, `GoogleTest`, `VisualProfiler`, `Python`).
-- The software development and evaluation were on an embedded Jetson Nano board (an ARM A57 CPU and Maxwell 128 CUDA cores GPU). The whole application was implemented in `C++/CUDA` programming languages achieving high performance in heterogeneous programming. The GoogleTest was used for tests and the TuSimple dataset for the benchmarks and evaluations.
-- The developed heterogeneous software performance ranged from 92.3% to 99.0% accuracy in the datasets, detecting up to 97.9% of the ego lanes available. The embedded system achieved real‐time constraints, running 25 and 140 times faster than the hybrid and CPU‐executed, respectively.
-
-<div>
-    <h4>Hardware‑in‑the‑Loop Platform for Modeling and Control of Quad‑copters</h4>
-    <h5 class="gray-text">Undergraduate's thesis - Electrical Engineering (UEL) - 2018</h5>
-</div>
-The work proposed an end-to-end test environment for modeling and controlling quad-copters based on hardware-in-the-loop simulation.
-Responsibilities and key achievements:
-
-- Responsible for the embedded hardware, firmware implementation, model simulation, and HiL platform.
-- The design and implementation of quad-copter dynamical and kinematic models and control plants for an online simulation. (`Matlab/Simulink`)
-- A graphical interface to control and watch the telematics data from the under-test quad-copter `ControlDesk (dSPACE)`.
-- The development of firmware for embedded quad-copters. Capable of real-time sensors telemetry, motors control, and receiving the online configurations and commands from the HiL platform. (`C`, `FreeRTOS`, `STM32-HAL`, `Electronics`)
-- The 4DoF structure provides a safe and realistic test bench for the end-to-end test of quad-copters.
 
 # Experience
 ---
@@ -141,3 +115,29 @@ Embedded System design for a Smart Parking machine. The hiring company had simil
 - Software application development for smart parking. It involved handling tasks such as system operation modes design (state machine), sensor readings, activation of the actuators, cloud storage, etc.
 - Tweaked the embedded OS (`Linux`) to redirect terminal outputs, disable not used peripherals, etc, to protect the company's Intellectual Property.
 - Assisted in the PCB redesign for the embedded system operation requirements.
+
+# Projects
+---
+<div>
+    <h4 class="subtitle">CUDA‑based Real-Time Ego‑Lane Detection in Embedded Systems</h4>
+    <h5 class="gray-text">Master's thesis - Electrical Engineering (UEL) - 2022</h5>
+</div>
+This work proposed the heterogeneous embedded implementation of a real-time lane detection system capable of estimating lane marks from images of a monocular camera. Each frame is processed to obtain a suitable bird’s eye view perspective. Were extracted the lane mark features to build different feature maps. Then the maps are combined to generate a robust binary frame with the lane marks used for the lanes estimation.
+
+- Responsible for the embedded hardware choice, algorithm design, and software implementation, testing, and validation (`CUDA`, `C++`, `OpenCV`, `GoogleTest`, `VisualProfiler`, `Python`).
+- The software development and evaluation were on an embedded Jetson Nano board (an ARM A57 CPU and Maxwell 128 CUDA cores GPU). The whole application was implemented in `C++/CUDA` programming languages achieving high performance in heterogeneous programming. The GoogleTest was used for tests and the TuSimple dataset for the benchmarks and evaluations.
+- The developed heterogeneous software performance ranged from 92.3% to 99.0% accuracy in the datasets, detecting up to 97.9% of the ego lanes available. The embedded system achieved real‐time constraints, running 25 and 140 times faster than the hybrid and CPU‐executed, respectively.
+
+<div>
+    <h4>Hardware‑in‑the‑Loop Platform for Modeling and Control of Quad‑copters</h4>
+    <h5 class="gray-text">Undergraduate's thesis - Electrical Engineering (UEL) - 2018</h5>
+</div>
+The work proposed an end-to-end test environment for modeling and controlling quad-copters based on hardware-in-the-loop simulation.
+Responsibilities and key achievements:
+
+- Responsible for the embedded hardware, firmware implementation, model simulation, and HiL platform.
+- The design and implementation of quad-copter dynamical and kinematic models and control plants for an online simulation. (`Matlab/Simulink`)
+- A graphical interface to control and watch the telematics data from the under-test quad-copter `ControlDesk (dSPACE)`.
+- The development of firmware for embedded quad-copters. Capable of real-time sensors telemetry, motors control, and receiving the online configurations and commands from the HiL platform. (`C`, `FreeRTOS`, `STM32-HAL`, `Electronics`)
+- The 4DoF structure provides a safe and realistic test bench for the end-to-end test of quad-copters.
+
